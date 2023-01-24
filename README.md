@@ -9,4 +9,3 @@ make cloud-build
 make cloud-run
 ```
 Note: some of these command will ask for your project name again
-# simple-flask-on-cloud-run
